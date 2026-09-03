@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Person A",
+        "role": "CEO",
+        "company": "Adobe"
+    },
+    {
+        "name": "Person B",
+        "role": "CEO",
+        "company": "Microsoft"
+    },
+    {
+        "name": "Person C",
+        "role": "CEO",
+        "company": "Google"
+    },
+    {
+        "name": "Person D",
+        "role": "CEO",
+        "company": "Amazon"
+    },
+    {
+        "name": "Person E",
+        "role": "CEO",
+        "company": "Canva"
+    },
+    {
+        "name": "Person F",
+        "role": "CEO",
+        "company": "Atlassian"
+    },
+    {
+        "name": "Person G",
+        "role": "CEO",
+        "company": "Salesforce"
+    },
+    {
+        "name": "Person H",
+        "role": "CEO",
+        "company": "Meta"
+    }
+]

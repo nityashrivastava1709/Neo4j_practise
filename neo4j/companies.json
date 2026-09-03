@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Adobe",
+        "industry": "Software",
+        "revenue": 17606,
+        "headquarters": "San Jose",
+        "employees": 30000,
+        "acquisitions": [
+            {"name": "Figma", "year": 2022},
+            {"name": "Marketo", "year": 2018}
+        ],
+        "competitors": ["Canva", "Microsoft"]
+    },
+    {
+        "name": "Microsoft",
+        "industry": "Technology",
+        "revenue": 245122,
+        "headquarters": "Redmond",
+        "employees": 221000,
+        "acquisitions": [
+            {"name": "LinkedIn", "year": 2016},
+            {"name": "GitHub", "year": 2018}
+        ],
+        "competitors": ["Google", "Adobe"]
+    },
+    {
+        "name": "Google",
+        "industry": "Technology",
+        "revenue": 402836,
+        "headquarters": "Mountain View",
+        "employees": 181000,
+        "acquisitions": [
+            {"name": "Fitbit", "year": 2021},
+            {"name": "Waze", "year": 2013}
+        ],
+        "competitors": ["Microsoft", "Amazon"]
+    },
+    {
+        "name": "Amazon",
+        "industry": "E-commerce",
+        "revenue": 637959,
+        "headquarters": "Seattle",
+        "employees": 1551000,
+        "acquisitions": [
+            {"name": "Twitch", "year": 2014},
+            {"name": "MGM", "year": 2022}
+        ],
+        "competitors": ["Microsoft", "Google"]
+    },
+    {
+        "name": "Canva",
+        "industry": "Design",
+        "revenue": 2500,
+        "headquarters": "Sydney",
+        "employees": 5000,
+        "acquisitions": [
+            {"name": "Affinity", "year": 2024}
+        ],
+        "competitors": ["Adobe", "Figma"]
+    },
+    {
+        "name": "Atlassian",
+        "industry": "Software",
+        "revenue": 4465,
+        "headquarters": "Sydney",
+        "employees": 12000,
+        "acquisitions": [
+            {"name": "Trello", "year": 2017}
+        ],
+        "competitors": ["Microsoft", "Salesforce"]
+    },
+    {
+        "name": "Salesforce",
+        "industry": "Cloud Software",
+        "revenue": 37895,
+        "headquarters": "San Francisco",
+        "employees": 76000,
+        "acquisitions": [
+            {"name": "Slack", "year": 2021},
+            {"name": "Tableau", "year": 2019}
+        ],
+        "competitors": ["Microsoft", "Oracle"]
+    },
+    {
+        "name": "Oracle",
+        "industry": "Database Software",
+        "revenue": 52961,
+        "headquarters": "Austin",
+        "employees": 159000,
+        "acquisitions": [
+            {"name": "Cerner", "year": 2022}
+        ],
+        "competitors": ["Microsoft", "Salesforce"]
+    },
+    {
+        "name": "IBM",
+        "industry": "Technology",
+        "revenue": 61860,
+        "headquarters": "Armonk",
+        "employees": 288000,
+        "acquisitions": [
+            {"name": "Red Hat", "year": 2019}
+        ],
+        "competitors": ["Microsoft", "Oracle"]
+    },
+    {
+        "name": "Meta",
+        "industry": "Social Media",
+        "revenue": 164501,
+        "headquarters": "Menlo Park",
+        "employees": 74000,
+        "acquisitions": [
+            {"name": "Instagram", "year": 2012},
+            {"name": "WhatsApp", "year": 2014}
+        ],
+        "competitors": ["Google", "Microsoft"]
+    }
+]
